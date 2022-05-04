@@ -1,0 +1,401 @@
+Jewellery type,Weight(in grams),Purity(Carat),Color,Hallmarked ,Price
+Necklace,1,24,White,yes,183000
+chain,19,20,Rose,no,74100
+rings,9,22,Yellow,yes,38700
+bracelet,26,20,Yellow,no,18800
+bangles,45,20,Rose,yes,168000
+earrings,9,20,White,yes,34200
+Choker,30,20,Rose,no,200900
+anklet,10,22,Yellow,yes,52530
+Nose piercing,7,22,Yellow,yes,38871
+Toe ring,6,20,Yellow,yes,25800
+Belly chain,12,20,Rose,yes,81900
+mangalsutra,48,20,Rose,yes,175590
+Maang Tikka,3,20,Yellow,no,232167
+Necklace,14,24,Yellow,yes,211200
+chain,11,22,Rose,yes,42900
+rings,3,24,Yellow,yes,16659
+bracelet,10,20,Yellow,yes,42000
+bangles,12,20,Rose,yes,57600
+earrings,7,20,Yellow,yes,30100
+Choker,12,20,Rose,yes,24500
+anklet,42,22,Rose,yes,216000
+Nose piercing,6,20,Rose,yes,25800
+Toe ring,6,20,Yellow,yes,25800
+Belly chain,25,20,Yellow,yes,136325
+mangalsutra,11,20,Yellow,yes,23412
+Maang Tikka,28,22,Yellow,yes,23500
+Necklace,43,22,Yellow,yes,110500
+chain,3,22,Rose,yes,136400
+rings,7,22,Yellow,yes,30100
+bracelet,44,22,Yellow,yes,23600
+bangles,24,20,White,yes,86000
+earrings,5,22,Yellow,yes,19000
+Choker,34,20,Rose,yes,38000
+anklet,20,24,Yellow,yes,67500
+Nose piercing,5,24,Rose,yes,19000
+Toe ring,12,22,Rose,yes,15200
+Belly chain,32,22,Rose,yes,88000
+mangalsutra,24,20,Rose,yes,211600
+Maang Tikka,14,22,Yellow,yes,14100
+Necklace,42,24,Yellow,yes,40600
+chain,14,20,Rose,yes,105300
+rings,5,20,Rose,yes,27765
+bracelet,44,20,Yellow,yes,88500
+bangles,34,20,Yellow,yes,163200
+earrings,7,20,Yellow,yes,30100
+Choker,39,22,Yellow,yes,145200
+anklet,39,24,Yellow,yes,27000
+Nose piercing,9,22,White,yes,38700
+Toe ring,4,22,Yellow,yes,15200
+Belly chain,26,20,Rose,yes,17600
+mangalsutra,17,20,Rose,yes,52677
+Maang Tikka,22,20,White,yes,94000
+Necklace,29,24,Rose,yes,272600
+chain,6,20,Yellow,yes,202400
+rings,19,20,Yellow,yes,98900
+bracelet,49,20,Rose,yes,103400
+bangles,11,24,Rose,yes,155400
+earrings,6,20,Rose,yes,22800
+Choker,9,22,Yellow,yes,156800
+anklet,7,24,Rose,yes,88000
+Nose piercing,8,22,Yellow,yes,34400
+Toe ring,9,22,Yellow,yes,38700
+Belly chain,40,20,Rose,yes,198000
+mangalsutra,29,22,Yellow,yes,73600
+Maang Tikka,35,20,Rose,yes,197400
+Necklace,44,20,White,yes,110400
+chain,1,20,Yellow,yes,127600
+rings,8,20,White,yes,34400
+bracelet,25,22,Rose,yes,197400
+bangles,5,22,Rose,yes,177600
+earrings,7,20,Yellow,yes,30100
+Choker,5,20,Yellow,yes,66000
+anklet,40,20,Rose,yes,13500
+Nose piercing,9,20,Rose,yes,38700
+Toe ring,8,20,White,yes,44424
+Belly chain,20,20,Rose,yes,39000
+mangalsutra,9,22,Rose,yes,82000
+Maang Tikka,31,20,Yellow,yes,61100
+Necklace,49,20,Rose,yes,121900
+chain,20,22,Rose,yes,167700
+rings,9,20,Yellow,yes,38700
+bracelet,2,22,White,yes,37800
+bangles,18,22,Yellow,yes,189200
+earrings,8,22,Rose,yes,34400
+Choker,31,22,Yellow,yes,88200
+anklet,23,20,Yellow,yes,139500
+Nose piercing,6,24,White,yes,25800
+Toe ring,8,24,Rose,yes,34400
+Belly chain,36,20,Yellow,yes,123200
+mangalsutra,32,20,White,yes,55200
+Maang Tikka,12,22,Rose,yes,205800
+Necklace,12,22,Yellow,yes,168000
+chain,21,20,Rose,yes,148200
+rings,7,20,Rose,yes,26600
+bracelet,34,20,Rose,yes,151200
+bangles,35,22,Rose,yes,110400
+earrings,7,20,Rose,yes,30100
+Choker,4,22,Yellow,yes,13200
+anklet,43,20,Rose,yes,188900
+Nose piercing,5,20,Rose,yes,27765
+Toe ring,9,20,Yellow,yes,49977
+Belly chain,31,22,Rose,yes,218120
+mangalsutra,9,20,Rose,yes,36900
+Maang Tikka,4,20,Yellow,yes,100800
+Necklace,2,20,Yellow,yes,156000
+chain,12,24,Yellow,yes,90448
+rings,43,22,Rose,yes,55530
+bracelet,27,20,Yellow,yes,47200
+bangles,0,20,Rose,yes,134400
+earrings,5,20,Rose,yes,19000
+Choker,15,22,Rose,yes,88200
+anklet,1,22,Yellow,yes,136578
+Nose piercing,4,22,Rose,yes,136800
+Toe ring,4,22,Rose,yes,17200
+Belly chain,16,22,Yellow,yes,136400
+mangalsutra,37,20,Rose,yes,179400
+Maang Tikka,1,24,Yellow,yes,53577
+Necklace,42,20,Yellow,yes,121800
+chain,8,22,Yellow,yes,198000
+rings,4,22,Rose,yes,253700
+bracelet,4,22,White,yes,53100
+bangles,6,20,Yellow,yes,86400
+earrings,8,20,Rose,yes,30400
+Choker,38,22,Yellow,yes,153825
+anklet,46,20,Rose,yes,138072
+Nose piercing,6,20,Yellow,yes,25800
+Toe ring,0,20,Yellow,yes,202100
+Belly chain,27,20,Yellow,yes,87248
+mangalsutra,10,20,Rose,yes,65600
+Maang Tikka,49,20,Yellow,yes,136919
+Necklace,1,22,Yellow,yes,127600
+chain,2,22,Rose,yes,187200
+rings,6,22,Rose,yes,22800
+bracelet,12,22,Yellow,yes,241900
+bangles,0,20,Rose,yes,193500
+earrings,9,22,Yellow,yes,34200
+Choker,19,20,Yellow,yes,92400
+anklet,24,22,Rose,yes,40271
+Nose piercing,24,20,Yellow,yes,146200
+Toe ring,5,24,Yellow,no,21500
+Belly chain,44,22,Yellow,yes,169043
+mangalsutra,15,20,Rose,yes,36900
+Maang Tikka,1,24,Yellow,yes,160731
+Necklace,25,22,Yellow,yes,162500
+chain,9,22,Yellow,yes,35100
+rings,7,20,Rose,yes,183249
+bracelet,17,20,Yellow,yes,253700
+bangles,9,24,Yellow,yes,9600
+earrings,11,20,Yellow,yes,133000
+Choker,25,24,White,yes,140800
+anklet,4,22,Yellow,yes,84000
+Nose piercing,5,22,Rose,no,19000
+Toe ring,7,22,White,yes,26600
+Belly chain,14,20,Yellow,yes,30800
+mangalsutra,25,22,Yellow,yes,105354
+Maang Tikka,10,20,Rose,yes,42000
+Necklace,6,20,Yellow,yes,286000
+chain,22,20,Yellow,yes,175243
+rings,3,20,Rose,yes,16659
+bracelet,18,22,Rose,yes,106200
+bangles,6,22,Rose,yes,105600
+earrings,7,20,Yellow,yes,26600
+Choker,39,22,White,yes,63700
+anklet,17,22,Rose,yes,85500
+Nose piercing,6,20,Rose,yes,25800
+Toe ring,8,20,Rose,yes,44424
+Belly chain,29,20,White,yes,189200
+mangalsutra,35,20,Yellow,yes,200900
+Maang Tikka,10,24,Rose,yes,42000
+Necklace,6,20,Rose,yes,172800
+chain,7,24,Yellow,yes,15600
+rings,8,24,Rose,yes,30400
+bracelet,37,20,Yellow,yes,241900
+bangles,40,20,White,yes,78689
+earrings,9,24,Yellow,yes,49977
+Choker,6,22,Rose,yes,166131
+anklet,0,22,Rose,yes,180000
+Nose piercing,4,20,Rose,yes,148200
+Toe ring,7,20,Rose,yes,26600
+Belly chain,34,20,White,yes,59983
+mangalsutra,25,20,Rose,yes,199002
+Maang Tikka,24,22,Rose,yes,50400
+Necklace,33,22,Yellow,yes,97500
+chain,45,22,Yellow,yes,70200
+rings,3,22,Yellow,yes,16659
+bracelet,23,22,Rose,yes,212400
+bangles,0,22,Yellow,yes,157378
+earrings,24,20,Rose,yes,94401
+Choker,27,24,Yellow,yes,161700
+anklet,48,20,Rose,yes,17259
+Nose piercing,7,24,Rose,yes,38871
+Toe ring,9,24,Rose,yes,34200
+Belly chain,38,20,Rose,yes,54530
+mangalsutra,3,22,Rose,yes,87795
+Maang Tikka,10,24,Yellow,yes,94000
+Necklace,41,22,Yellow,yes,261000
+chain,29,22,Yellow,yes,180400
+rings,6,24,Rose,yes,33318
+bracelet,8,20,Rose,yes,211500
+bangles,11,20,Yellow,yes,52800
+earrings,5,20,Yellow,yes,19000
+Choker,26,22,Yellow,yes,233814
+anklet,33,20,Yellow,yes,117000
+Nose piercing,6,24,Rose,yes,25800
+Toe ring,7,22,Rose,yes,38871
+Belly chain,33,20,Rose,yes,171600
+mangalsutra,44,20,Rose,yes,105800
+Maang Tikka,41,24,Rose,yes,23500
+Necklace,30,20,Rose,yes,222600
+chain,8,22,Yellow,yes,123200
+rings,4,22,Yellow,yes,15200
+bracelet,26,20,Rose,yes,183300
+bangles,39,22,Yellow,yes,163431
+earrings,8,24,Rose,yes,34300
+Choker,45,24,Yellow,yes,215355
+anklet,11,22,Yellow,yes,202500
+Nose piercing,8,20,Rose,yes,114000
+Toe ring,6,20,Rose,yes,33318
+Belly chain,28,22,Yellow,yes,158137
+mangalsutra,6,22,Rose,yes,24600
+Maang Tikka,12,20,Yellow,yes,56400
+Necklace,39,22,Yellow,yes,148400
+chain,9,20,Yellow,yes,39600
+rings,7,20,Yellow,yes,26600
+bracelet,12,22,Yellow,yes,84600
+bangles,3,22,Rose,yes,151325
+earrings,8,20,Rose,yes,30400
+Choker,1,20,Yellow,yes,295344
+anklet,37,20,Rose,yes,40271
+Nose piercing,7,20,Rose,yes,26600
+Toe ring,10,20,Yellow,yes,55530
+Belly chain,31,20,Yellow,yes,70889
+mangalsutra,6,20,Yellow,yes,93648
+Maang Tikka,45,20,Yellow,yes,109200
+Necklace,30,20,Yellow,yes,159000
+chain,13,24,Yellow,yes,276997
+rings,6,22,Yellow,yes,33318
+bracelet,44,22,Yellow,yes,197400
+bangles,6,20,Yellow,yes,217908
+earrings,8,22,Yellow,yes,30400
+Choker,49,22,Yellow,yes,92400
+anklet,15,22,Yellow,yes,23012
+Nose piercing,8,20,Rose,yes,30400
+Toe ring,7,20,Yellow,yes,26600
+Belly chain,35,20,Yellow,yes,96800
+mangalsutra,14,20,Yellow,yes,228267
+Maang Tikka,18,20,Rose,yes,18800
+Necklace,30,22,Rose,yes,139200
+chain,10,20,Rose,yes,193600
+rings,6,20,White,yes,25800
+bracelet,12,22,Yellow,yes,56400
+bangles,45,22,Rose,yes,121060
+earrings,8,20,White,yes,44424
+Choker,18,24,Rose,yes,156800
+anklet,41,20,Rose,yes,124000
+Nose piercing,8,22,Rose,yes,34400
+Toe ring,5,20,Rose,yes,19000
+Belly chain,33,22,Rose,yes,113100
+mangalsutra,45,22,Rose,yes,78200
+Maang Tikka,41,22,Rose,yes,230300
+Necklace,27,22,White,yes,312000
+chain,14,22,Rose,yes,61600
+rings,7,22,Yellow,yes,26600
+bracelet,42,20,Rose,yes,138600
+bangles,18,22,Rose,yes,68800
+earrings,5,20,Rose,yes,19000
+Choker,1,22,Yellow,yes,154000
+anklet,31,20,Rose,yes,281897
+Nose piercing,42,20,Rose,yes,94401
+Toe ring,8,20,Rose,yes,30400
+Belly chain,12,20,Yellow,yes,87248
+mangalsutra,25,20,Yellow,yes,64383
+Maang Tikka,15,20,Rose,yes,87795
+Necklace,22,20,Rose,yes,168000
+chain,43,22,Rose,yes,35100
+rings,4,22,Rose,no,15200
+bracelet,48,22,Rose,yes,205800
+bangles,43,22,Rose,yes,230014
+Necklace,13,20,Rose,yes,110400
+chain,11,22,Yellow,yes,42900
+rings,7,22,Yellow,yes,26600
+bracelet,31,22,Rose,yes,182900
+bangles,20,20,Yellow,yes,94600
+earrings,40,20,Rose,yes,86100
+Choker,41,20,Rose,yes,181300
+anklet,7,20,Rose,yes,31500
+Nose piercing,5,22,Yellow,yes,21500
+Toe ring,9,20,Yellow,yes,38700
+Belly chain,42,20,Yellow,no,120900
+mangalsutra,6,22,Rose,yes,59800
+Maang Tikka,10,20,Yellow,yes,9400
+Necklace,47,22,Yellow,yes,22100
+chain,6,20,Yellow,yes,215600
+rings,4,20,Rose,yes,192700
+bracelet,19,24,Yellow,yes,53100
+bangles,49,22,Yellow,yes,8600
+Necklace,10,22,Rose,yes,266500
+chain,33,22,Yellow,yes,27300
+rings,7,22,Yellow,yes,30100
+bracelet,2,22,Rose,yes,177000
+bangles,32,22,Rose,yes,21500
+earrings,5,20,Yellow,yes,19000
+Choker,27,20,Rose,yes,129213
+anklet,49,22,Rose,yes,155331
+Nose piercing,4,22,Rose,yes,22212
+Toe ring,4,20,Yellow,yes,22212
+Belly chain,33,20,Rose,yes,81795
+mangalsutra,47,22,Rose,yes,200900
+Maang Tikka,3,20,Rose,yes,220261
+Necklace,36,20,Yellow,yes,127200
+chain,21,20,Yellow,yes,118713
+rings,5,22,Yellow,yes,21500
+bracelet,39,20,Yellow,yes,103400
+bangles,0,20,Rose,yes,230400
+Necklace,45,22,Rose,yes,206400
+chain,28,22,Rose,yes,189200
+rings,9,20,Yellow,yes,49977
+bracelet,48,22,Yellow,yes,155100
+bangles,22,22,Yellow,yes,107500
+earrings,5,20,Yellow,yes,21500
+Choker,27,20,Yellow,yes,93100
+anklet,25,22,Yellow,yes,51777
+Nose piercing,4,22,Yellow,yes,15200
+Toe ring,5,20,Rose,yes,19000
+Belly chain,22,22,Yellow,yes,136325
+mangalsutra,25,20,Rose,yes,82000
+Maang Tikka,14,22,Rose,yes,202402
+Necklace,13,22,Yellow,yes,26500
+chain,21,20,Yellow,yes,144300
+rings,6,20,Yellow,yes,22800
+bracelet,13,24,Rose,yes,25200
+bangles,13,20,Rose,yes,96000
+Necklace,31,20,Yellow,yes,164300
+chain,48,20,Yellow,yes,159900
+rings,7,22,Yellow,yes,30100
+bracelet,19,24,Yellow,yes,205800
+bangles,16,24,Yellow,yes,172800
+earrings,5,22,White,yes,19000
+Choker,49,22,Yellow,yes,240100
+anklet,6,22,Rose,yes,117000
+Nose piercing,9,24,Rose,yes,38700
+Toe ring,3,22,Yellow,yes,12900
+Belly chain,30,20,Yellow,yes,79200
+mangalsutra,42,24,Rose,yes,23412
+Maang Tikka,34,20,Rose,yes,131600
+Necklace,49,22,Rose,yes,156000
+chain,33,20,Rose,yes,271344
+rings,6,20,Rose,yes,33318
+bracelet,16,20,Rose,yes,134400
+bangles,13,24,White,yes,76700
+Necklace,38,22,White,yes,53000
+chain,29,22,Rose,yes,30800
+rings,4,22,Yellow,yes,17200
+bracelet,37,20,Rose,yes,76700
+bangles,20,22,Rose,yes,129600
+earrings,7,22,Yellow,yes,30100
+Choker,45,22,Rose,yes,142100
+anklet,19,22,Rose,yes,85500
+Nose piercing,9,20,Yellow,yes,38700
+Toe ring,7,20,Rose,yes,30100
+Belly chain,44,20,Rose,yes,145200
+mangalsutra,32,22,Rose,yes,46000
+Maang Tikka,12,22,Yellow,yes,220900
+Necklace,22,22,Yellow,yes,259700
+chain,3,20,Yellow,yes,158400
+rings,5,20,Yellow,yes,27765
+bracelet,31,20,Rose,yes,89300
+bangles,12,22,Rose,yes,172000
+Necklace,40,20,Yellow,yes,153600
+chain,28,20,Rose,yes,146978
+rings,9,20,Yellow,yes,38700
+bracelet,18,20,Rose,yes,75600
+bangles,13,22,Rose,yes,51600
+earrings,7,20,Rose,yes,26600
+Choker,39,22,Yellow,yes,215600
+anklet,17,22,Yellow,yes,99000
+Nose piercing,8,22,Rose,yes,34400
+Toe ring,6,22,Yellow,yes,22800
+Belly chain,23,22,Yellow,yes,8800
+mangalsutra,45,22,Yellow,yes,115000
+Maang Tikka,48,20,Yellow,yes,201600
+Necklace,4,22,Yellow,yes,148800
+chain,10,22,Yellow,yes,39600
+rings,7,20,Rose,yes,30100
+bracelet,4,22,Yellow,yes,18800
+bangles,6,20,Yellow,yes,187200
+Necklace,1,22,Rose,yes,26000
+chain,15,24,Yellow,yes,58500
+rings,7,22,Yellow,yes,38871
+bracelet,30,20,Yellow,yes,211500
+bangles,7,22,Rose,yes,201600
+earrings,7,22,Yellow,yes,34200
+Choker,33,22,Yellow,yes,19600
+anklet,15,22,Rose,yes,51777
+Nose piercing,45,22,Rose,yes,116613
+Toe ring,7,22,Rose,yes,38871
+Belly chain,29,24,Yellow,yes,183300
+mangalsutra,22,20,Yellow,yes,122913
+Maang Tikka,36,20,Yellow,yes,184800
+Necklace,31,20,Rose,yes,148800
